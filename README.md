@@ -20,7 +20,8 @@ A Power BI dashboard project built from synthetic hospital data to analyze patie
 
 - `Cleaned_Hospital_Patient_Data.xlsx` – dataset used
 - `Hospital_Dashboard.pbix` – Power BI report
-- `Dashboard_Screenshot.png` – (optional preview image)
+- `Dashboard_Screenshot.png` – (Preview image)
+- ![Dashboard_Screenshot](https://github.com/user-attachments/assets/4ffc3a37-d375-4ed1-98e7-678482ed222b)
 
 ---
 
